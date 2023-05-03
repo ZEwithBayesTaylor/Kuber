@@ -2,7 +2,7 @@
 
 ### Overview
 
-The task is to deploy a web application on Kubernetes using Docker containers. Details can be found in this [PDF](/Assignment%203.pdf)
+The task is to deploy a web application on Kubernetes using Docker containers.
 
 ### Workflow
 
