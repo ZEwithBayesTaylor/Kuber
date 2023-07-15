@@ -10,9 +10,9 @@ Commands
 
 ```bash
 # Part 2
-docker build -t sy3079/flask-app:latest .
+docker build -t xf2664/flask-app:latest .
 docker-compose up
-docker push sy3079/flask-app:latest
+docker push xf2664/flask-app:latest
 
 # Part 3
 minikube start
